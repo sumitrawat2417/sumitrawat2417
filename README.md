@@ -7,7 +7,7 @@
 
 <!-- ── ANIMATED HEADER ─────────────────────────────────────────────────────── -->
 <a href="https://github.com/sumitrawat2417">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+firmware+%2B+SaaS+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+dogfood+every+product+I+ship+%E2%80%94+no+exceptions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+firmware+%2B+SaaS+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+build+real+things+%E2%80%94+and+I+run+my+actual+business+on+one+of+them." alt="Typing SVG" />
 </a>
 
 <!-- ── PROFILE VIEWS ────────────────────────────────────────────────────────── -->
@@ -22,6 +22,7 @@
 
 > **The rare cross-domain builder:** embedded firmware *and* production SaaS *and* a live business that runs on the software I wrote myself, every single day.
 
+- 🎓 **3rd-year BTech (AI & ML) student** — still in college, already running production software other businesses depend on.
 - 🔩 **Hardware → Software → Real Usage** — I own the full stack: MCU firmware, backend logic, and the screen the end user actually touches.
 - 🏪 I run a **food cart** and I run it on **ManSula BOS** — my own software. That means I'm not guessing what small business owners need. I'm living it.
 - ⚡ **5+ years of serious Python**, C/C++, Java, JavaScript — learned by building things, not finishing courses.
@@ -101,7 +102,7 @@
 
 | Project | What It Is | Status | Stack |
 |---|---|---|---|
-| **🏢 ManSula BOS** | Full business-operations SaaS — a handful of local business owners run their day-to-day on it. I run my food cart on it. Built as a React PWA. Thoroughly documented, in active dev since 2023. | 🟢 **Live & Growing** | React · PWA · Supabase · Python |
+| **🏢 ManSula BOS** | Full business-operations SaaS — a handful of local business owners run their day-to-day on it. I run my food cart on it. Built as a React PWA. Thoroughly documented, 2+ years in active development. | 🟢 **Live & In Use** | React · PWA · Supabase · Python |
 | **💳 ManSula Smart Terminal** | A dedicated hardware POS device on the ESP32-S3 — voice payment announcements, dynamic QR generation, real-time payment confirmation, loyalty card system, local wallet. Same business logic as BOS, on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython · Hardware |
 | **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact, without the noise of big-platform clutter. Business owners get an online presence without needing their own website. Built solo in ~1 month. Architecture is clean and solid. | 🔵 **Concept Proven** | React · Next.js · Supabase |
 | **⌚ DivSum Ecosystem** | A self-built smartwatch platform, ground-up: **DivSum OS** (custom wearable OS) + **DivSum Watch** (hardware on ESP32-S3) + **DivSum Connect** (companion mobile app). No team. No existing framework. Built independently across firmware, hardware, and companion software. | 🔨 **In Development** | ESP32-S3 · MicroPython · Android |
