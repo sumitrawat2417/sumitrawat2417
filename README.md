@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/sumitrawat2417">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+hardware+%2B+software+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+build+real+things+%E2%80%94+and+run+my+own+business+on+them." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+hardware+%2B+software+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+build+real+things+%E2%80%94+and+run+my+own+business+on+them.&v=3" alt="Typing SVG" />
 </a>
 
 <br/>
