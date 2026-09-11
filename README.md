@@ -23,11 +23,12 @@
 > **The rare cross-domain builder:** embedded firmware *and* production SaaS *and* a live business that runs on the software I wrote myself, every single day.
 
 - 🎓 **3rd-year BTech (AI & ML) student** — still in college, already running production software other businesses depend on.
+- 🏗️ **Founder of [ManSula](https://mansula.netlify.app)** — a multi-industry venture group (est. 2024) with three divisions: DivLabs (software), Technologies (hardware/IoT), and Foods (food service). ManSula BOS is its flagship product.
 - 🔩 **Hardware → Software → Real Usage** — I own the full stack: MCU firmware, backend logic, and the screen the end user actually touches.
 - 🏪 I run a **food cart** and I run it on **ManSula BOS** — my own software. That means I'm not guessing what small business owners need. I'm living it.
 - ⚡ **5+ years of serious Python**, C/C++, Java, JavaScript — learned by building things, not finishing courses.
 - 🔁 I go deep, not wide-and-shallow. If a problem needs 10 hours in one sitting, that's what it gets. I've worked this way since I was a teenager.
-- 🧩 I've shipped **solo** (all flagship projects) and **on teams** (healthcare platform, restaurant site) — I know how to do both.
+- 🧩 I've shipped **solo** (all flagship projects) and **on teams** (healthcare platform) — I know how to do both.
 - 🧪 I default to building the real thing. Every project below is in active use, active development, or was built far enough to prove the architecture works.
 
 ---
@@ -127,7 +128,7 @@
 | **Backup & Restore** | Full business backup to `.msbos` file; restore entire business in minutes |
 | **Offline-First** | Billing, inventory, and customer records work with zero internet — by design, not by limitation |
 
-**Business model:** Freemium — free core forever, premium tiers for advanced analytics, AI features (roadmap), and future cloud sync.
+**Availability:** Free to use — premium features (advanced analytics, AI layer, cloud sync) are coming.
 
 **Why it's real:** I run my own food cart on this software, every single day. I built it, I use it, and I maintain it based on what I actually need as a small business owner — not what I imagined might be useful.
 
@@ -139,18 +140,27 @@
 |---|---|---|---|
 | **💳 ManSula Smart Terminal** | Dedicated hardware POS device on ESP32-S3 — voice payment announcements, dynamic QR, loyalty card system, local wallet. Same business logic as BOS, on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython · Hardware |
 | **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact. Business owners get an online presence without needing their own website. Built solo in ~1 month; architecture proven solid. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
-| **⌚ DivSum Ecosystem** | Self-built smartwatch platform: **DivSum OS** (custom wearable OS) + **DivSum Watch** (ESP32-S3 hardware) + **DivSum Connect** (companion app). No team. No existing framework. End-to-end across firmware, hardware, and software. | 🔨 **In Development** | ESP32-S3 · MicroPython · Android |
+| **⌚ DivSum Ecosystem** | Self-built smartwatch platform: **DivSum OS** (custom wearable OS) + **DivSum Watch** (ESP32-S3 hardware) + **DivSum Connect** (companion app). No team. No existing framework. End-to-end across firmware, hardware, and software. | 🔨 **In Development** | ESP32-S3 · MicroPython |
 
 ---
 
-## 🤝 Team Projects
+## 🤝 ManSula Foods — Division Web Presence
 
-> *Everything above was solo. These weren't — equally real, different context: full-stack contributor on a team, not the lone owner.*
+> *Part of the ManSula ecosystem — not an outside client project. I built the web presence for my own food cart business (ManSula Foods), with 4 college mates contributing.*
+
+| Project | What It Is | Context | Role |
+|---|---|---|---|
+| **🍽️ ManSula Foods Website** | Web presence for the ManSula Foods division — the food cart I actually run day-to-day, now with an online face. <br/>🔗 [Live Site](https://mansulafoods.netlify.app) | My own business · 5-person build | Led + full-stack |
+
+---
+
+## 🤝 Collaborative Projects
+
+> *External projects where I worked as a full-stack contributor on a team — not the sole owner.*
 
 | Project | What It Is | Team Size | Role |
 |---|---|---|---|
 | **🏥 Healthcare Patient-Doctor Platform** | Connects patients to doctors — appointment booking, symptom/disease checker, medical records access in one place. <br/>🔗 [Live Demo](https://medical-triage-system-bzja.onrender.com/) | 2-person (college mate) | Full-stack |
-| **🍽️ Restaurant Website** | A restaurant-facing web presence, built collaboratively as part of a larger team effort. <br/>🔗 [Live Demo](https://mansulafoods.netlify.app) | 5-person team | Full-stack |
 
 ---
 
@@ -201,7 +211,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit2417/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitrawat2417@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitrawat2417)
 
 </div>
