@@ -149,22 +149,7 @@
 |---|---|---|---|
 | **🏥 Healthcare Patient-Doctor Platform** | Connects patients to doctors — appointment booking, symptom checker, medical records access in one place. | 2-person | [Live Demo](https://medical-triage-system-bzja.onrender.com/) · [Repo](https://github.com/sumitrawat2417/medical-triage-system) |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumitrawat2417&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumitrawat2417&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrawat2417&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
-
-</div>
 
 ---
 
