@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/sumitrawat2417">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+firmware+%2B+SaaS+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+build+real+things+%E2%80%94+and+I+run+my+actual+business+on+one+of+them." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumit+Rawat+%E2%80%94+aka+Forbit+%F0%9F%91%8B;I+build+hardware+%2B+software+%2B+run+the+business+using+both.;Embedded+systems+engineer.+Full-stack+builder.+Founder.;I+build+real+things+%E2%80%94+and+I+run+my+actual+business+on+one+of+them." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@
 - 🔩 I own the full stack — MCU firmware, backend logic, and the screen the end user actually touches
 - 🏪 I run a **food cart** on **ManSula BOS** — my own software. I'm not guessing what small business owners need. I'm living it.
 - ⚡ 5+ years working with **Python**, alongside C/C++, Java, JavaScript — learned by building, not by finishing courses
-- 🔁 I go deep. If a problem needs 10 hours in one sitting, that's what it gets.
 
 ---
 
@@ -96,7 +95,7 @@
 
 > *An offline-first Business Operating System for small and medium businesses — built in India, for India.*
 
-🔗 **[Overview](https://mansulabos.netlify.app/) · [Live App](https://mansula-bos.netlify.app/) · [ManSula](https://mansula.netlify.app)**
+🔗 **[Overview](https://mansulabos.netlify.app/) · [Live App](https://mansula-bos.netlify.app/) · [Repo](https://github.com/sumitrawat2417/mansula-bos) · [ManSula](https://mansula.netlify.app)**
 
 **What it is:** Not billing software — a full operating environment. Data is stored locally on-device so every core feature works with zero internet. All modules share one local database: a sale updates inventory, builds the customer's CRM profile, and feeds analytics in a single operation. Cloud sync is on the roadmap.
 
@@ -148,7 +147,7 @@
 
 | Project | What It Is | Team | Link |
 |---|---|---|---|
-| **🏥 Healthcare Patient-Doctor Platform** | Appointment booking, symptom checker, medical records — patients to doctors in one place. | 2-person | [Live Demo](https://medical-triage-system-bzja.onrender.com/) |
+| **🏥 Healthcare Patient-Doctor Platform** | Connects patients to doctors — appointment booking, symptom checker, medical records access in one place. | 2-person | [Live Demo](https://medical-triage-system-bzja.onrender.com/) · [Repo](https://github.com/sumitrawat2417/medical-triage-system) |
 
 ---
 
@@ -174,7 +173,7 @@
 ```
 🔨  ManSula Smart Terminal — ESP32-S3 firmware + payment flow
 📱  DivSum Connect — companion app for DivSum Watch
-🌱  Closing the gap on React / Next.js — AI-assisted → hand-authored
+🌱  React / Next.js — deepening hands-on expertise
 📦  Documenting hardware projects publicly (the work exists, the repos are coming)
 ```
 
