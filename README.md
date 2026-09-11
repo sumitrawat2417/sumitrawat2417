@@ -102,9 +102,9 @@
 
 | Project | What It Is | Status | Stack |
 |---|---|---|---|
-| **🏢 ManSula BOS** | Full business-operations SaaS — a handful of local business owners run their day-to-day on it. I run my food cart on it. Built as a React PWA. Thoroughly documented, 2+ years in active development. | 🟢 **Live & In Use** | React · PWA · Supabase · Python |
+| **🏢 ManSula BOS** | Full business-operations SaaS — a handful of local business owners run their day-to-day on it. I run my food cart on it. Built as a React PWA. Thoroughly documented, 2+ years in active development. <br/>🔗 [Overview](https://mansulabos.netlify.app/) · [App](https://mansula-bos.netlify.app/) · [Venture](https://mansula.netlify.app) | 🟢 **Live & In Use** | React · PWA · Supabase · Python |
 | **💳 ManSula Smart Terminal** | A dedicated hardware POS device on the ESP32-S3 — voice payment announcements, dynamic QR generation, real-time payment confirmation, loyalty card system, local wallet. Same business logic as BOS, on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython · Hardware |
-| **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact, without the noise of big-platform clutter. Business owners get an online presence without needing their own website. Built solo in ~1 month. Architecture is clean and solid. | 🔵 **Concept Proven** | React · Next.js · Supabase |
+| **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact, without the noise of big-platform clutter. Business owners get an online presence without needing their own website. Built solo in ~1 month. Architecture is clean and solid. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
 | **⌚ DivSum Ecosystem** | A self-built smartwatch platform, ground-up: **DivSum OS** (custom wearable OS) + **DivSum Watch** (hardware on ESP32-S3) + **DivSum Connect** (companion mobile app). No team. No existing framework. Built independently across firmware, hardware, and companion software. | 🔨 **In Development** | ESP32-S3 · MicroPython · Android |
 
 ---
@@ -115,8 +115,8 @@
 
 | Project | What It Is | Team Size | Role |
 |---|---|---|---|
-| **🏥 Healthcare Patient-Doctor Platform** | Connects patients to doctors — appointment booking, symptom/disease checker, medical records access in one place. | 2-person (college mate) | Full-stack |
-| **🍽️ Restaurant Website** | A restaurant-facing web presence, built collaboratively as part of a larger team effort. | 5-person team | Full-stack |
+| **🏥 Healthcare Patient-Doctor Platform** | Connects patients to doctors — appointment booking, symptom/disease checker, medical records access in one place. <br/>🔗 [Live Demo](https://medical-triage-system-bzja.onrender.com/) | 2-person (college mate) | Full-stack |
+| **🍽️ Restaurant Website** | A restaurant-facing web presence, built collaboratively as part of a larger team effort. <br/>🔗 [Live Demo](https://mansulafoods.netlify.app) | 5-person team | Full-stack |
 
 ---
 
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit2417/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitrawat2417)
 
