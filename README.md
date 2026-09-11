@@ -13,7 +13,7 @@
 ### 👋 About Me
 
 - 🔭 Building **ManSula** — a business OS I actively use to run my own food cart
-- 🛠️ 5+ years deep in **Python**, with real hardware work across **ESP32 / Arduino / Raspberry Pi Pico**
+- 🛠️ 5+ years deep in **Python** & **C++**, with real hardware work across **ESP32 / Arduino / Raspberry Pi Pico**
 - 🌉 I sit at the intersection most people don't: **embedded hardware + full software products + actually running a business**
 - 🤖 I use AI tools deliberately to extend what I build (React/Next.js, some backend/db work) — I'll always tell you exactly where
 - 📚 Self-taught, deep-focus builder — I'll happily lose 10 hours to a hard problem
