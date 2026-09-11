@@ -100,12 +100,46 @@
 
 > *Built alone, end-to-end — hardware layer through business logic through what the user touches.*
 
+---
+
+### 🏢 ManSula BOS — Business Operating System *(Flagship)*
+
+> *An offline-first Business Operating System for small and medium businesses — built in India, for India.*
+
+🔗 **[Overview Site](https://mansulabos.netlify.app/) · [Live App](https://mansula-bos.netlify.app/) · [ManSula Venture](https://mansula.netlify.app)**
+
+**What it is:** ManSula BOS is not billing software — it's a full operating environment. One shared database powers every module, so a single sale simultaneously updates inventory, builds the customer's CRM profile, and feeds the analytics dashboard. No app-switching. No double entry. Every core feature works completely offline.
+
+**Tech Stack:** React · JavaScript · Supabase · DBMS (local-first architecture) · Netlify · PWA
+
+**Feature set (all shipped, not planned):**
+
+| Module | What it does |
+|---|---|
+| **POS** | Smart cart, multiple simultaneous orders, GST auto-calc, split payments (cash + UPI), Dynamic UPI QR per bill |
+| **Dynamic UPI QR** | Amount-locked QR generated fresh per transaction — eliminates rounding pressure and payment errors |
+| **Smart Cash Calculator** | Enter the note handed over → exact change returned instantly |
+| **CRM** | Auto-builds customer profiles from invoices, udhaar (credit) tracking, segmentation, communication tools |
+| **Inventory** | Live stock, low-stock alerts, purchase logs, supplier management with price history graphs |
+| **Reports** | Daily summary, P&L, tax summary, payment report, customer ledgers — export to PDF or CSV |
+| **Analytics** | Revenue trends, peak hours, product performance, customer insights — visual, decision-ready |
+| **Staff Management** | Employee profiles, shift and attendance tracking |
+| **Backup & Restore** | Full business backup to `.msbos` file; restore entire business in minutes |
+| **Offline-First** | Billing, inventory, and customer records work with zero internet — by design, not by limitation |
+
+**Business model:** Freemium — free core forever, premium tiers for advanced analytics, AI features (roadmap), and future cloud sync.
+
+**Why it's real:** I run my own food cart on this software, every single day. I built it, I use it, and I maintain it based on what I actually need as a small business owner — not what I imagined might be useful.
+
+---
+
+### Other Solo Projects
+
 | Project | What It Is | Status | Stack |
 |---|---|---|---|
-| **🏢 ManSula BOS** | Full business-operations SaaS — a handful of local business owners run their day-to-day on it. I run my food cart on it. Built as a React PWA. Thoroughly documented, 2+ years in active development. <br/>🔗 [Overview](https://mansulabos.netlify.app/) · [App](https://mansula-bos.netlify.app/) · [Venture](https://mansula.netlify.app) | 🟢 **Live & In Use** | React · PWA · Supabase · Python |
-| **💳 ManSula Smart Terminal** | A dedicated hardware POS device on the ESP32-S3 — voice payment announcements, dynamic QR generation, real-time payment confirmation, loyalty card system, local wallet. Same business logic as BOS, on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython · Hardware |
-| **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact, without the noise of big-platform clutter. Business owners get an online presence without needing their own website. Built solo in ~1 month. Architecture is clean and solid. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
-| **⌚ DivSum Ecosystem** | A self-built smartwatch platform, ground-up: **DivSum OS** (custom wearable OS) + **DivSum Watch** (hardware on ESP32-S3) + **DivSum Connect** (companion mobile app). No team. No existing framework. Built independently across firmware, hardware, and companion software. | 🔨 **In Development** | ESP32-S3 · MicroPython · Android |
+| **💳 ManSula Smart Terminal** | Dedicated hardware POS device on ESP32-S3 — voice payment announcements, dynamic QR, loyalty card system, local wallet. Same business logic as BOS, on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython · Hardware |
+| **📍 MapLok** | Premium local-business discovery platform — maps + ratings + directions + direct contact. Business owners get an online presence without needing their own website. Built solo in ~1 month; architecture proven solid. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
+| **⌚ DivSum Ecosystem** | Self-built smartwatch platform: **DivSum OS** (custom wearable OS) + **DivSum Watch** (ESP32-S3 hardware) + **DivSum Connect** (companion app). No team. No existing framework. End-to-end across firmware, hardware, and software. | 🔨 **In Development** | ESP32-S3 · MicroPython · Android |
 
 ---
 
