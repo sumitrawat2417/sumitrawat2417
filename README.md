@@ -121,6 +121,24 @@
 
 ---
 
+### <img src="https://raw.githubusercontent.com/sumitrawat2417/upi-flow-public/main/icon-512.png" height="24" alt="UPI Flow Logo" /> UPI Flow — Smart UPI Payment Manager
+
+> *A lightning-fast, offline-first Progressive Web App for smart UPI payment splitting and session management.*
+
+🔗 **[Live App](https://sumitrawat2417.github.io/upi-flow-public/) · [Repo (Public)](https://github.com/sumitrawat2417/upi-flow-public) · [ManSula DivLabs](https://mansuladivlabs.netlify.app/)**
+
+**What it is:** A privacy-first merchant utility built on a serverless architecture. All logic, storage, and QR generation happens on-device. It helps merchants split large payment totals into smaller sequential amounts to navigate UPI MDR rules, guiding them through a clean, counter-style confirmation workflow.
+
+**Stack:** React 19 · TypeScript · Vite · PWA · Local-first
+
+**Highlights:**
+- **Smart Split Engine:** Auto-calculates optimal splits or accepts custom amounts.
+- **Sequential Sessions:** Shows one QR at a time for error-free payment handling.
+- **Multi-UPI ID:** Manage multiple IDs with a round-robin rotation mode.
+- **Privacy-First:** Zero backend, zero cloud. All history and logic stay on the device.
+
+---
+
 ### Other Solo Projects
 
 | Project | What It Is | Status | Stack |
