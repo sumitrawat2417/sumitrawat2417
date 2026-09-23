@@ -151,7 +151,7 @@
 
 ## 🏷️ ManSula Foods — Division Web Presence
 
-> *My own business, not an outside client. Built the online presence for my food cart (ManSula Foods division) with 4 college mates.*
+> *My own business, not an outside client. Built the online presence for my food business (ManSula Foods) with 4 college mates.*
 
 | Project | Context | Role | Link |
 |---|---|---|---|
