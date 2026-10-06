@@ -46,7 +46,7 @@
 
 </div>
 
-### 🔧 Embedded & IoT — Hands-On
+### 🔧 Embedded Systems & IoT — Hands-On
 
 <div align="center">
 
