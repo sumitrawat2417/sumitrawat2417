@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SUMIT RAWAT (FORBIT) — GitHub Profile README · sumitrawat2417
      ═══════════════════════════════════════════════════════════════════════════ -->
@@ -70,9 +71,9 @@
 
 </div>
 
-### 🤖 AI-Assisted Development
+### 🌐 Web & Cloud Ecosystem
 
-> *AI-assisted implementation, debugging and exploration; responsible for architecture, integration, testing and final review.*
+> *Building modern web apps, offline-first PWAs, and serverless backend architectures.*
 
 <div align="center">
 
