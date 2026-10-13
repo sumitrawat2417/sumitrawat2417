@@ -117,7 +117,7 @@
 
 **Availability:** Free to use — premium features (advanced analytics, AI layer, cloud sync) are coming.
 
-**Why it's real:** I run my food cart on this software every day. I built it, I use it, and I maintain it based on what I actually need — not what I imagined might be useful.
+**Why it's real:** I run my food business on this software every day. I built it, I use it, and I maintain it based on what I actually need — not what I imagined might be useful.
 
 ---
 
