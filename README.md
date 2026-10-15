@@ -19,7 +19,7 @@
 
 > **Hardware → firmware → SaaS → live business. All in one person.**
 
-- 🎓 **BTech in AI & ML, IP University** · Pursuing **IIT Madras BS Data Science** alongside
+- 🎓 **BTech in AI & ML, IP University** · Pursuing **BS Data Science from IIT Madras** alongside
 - <img src="about/github-profile/mansula.png" height="18" alt="ManSula Logo" /> **Founder of [ManSula](https://mansula.netlify.app)** — multi-industry venture group (est. 2024): DivLabs (software), Technologies (hardware/IoT), Foods (food service)
 - 🔩 I own the full stack — MCU firmware, backend logic, and the screen the end user actually touches
 - 🏪 I run a **food business** on **ManSula BOS** — my own software. I'm not guessing what small business owners need. I'm living it.
