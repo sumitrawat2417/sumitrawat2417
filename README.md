@@ -134,7 +134,7 @@
 **Highlights:**
 - **Smart Split Engine:** Auto-calculates optimal splits or accepts custom amounts.
 - **Sequential Sessions:** Shows one QR at a time for error-free payment handling.
-- **Multi-UPI ID:** Manage multiple IDs with a round-robin rotation mode.
+- **Multi UPI ID:** Manage multiple IDs with a round-robin rotation mode.
 - **Privacy-First:** Zero backend, zero cloud. All history and logic stay on the device.
 
 ---
@@ -144,8 +144,8 @@
 | Project | What It Is | Status | Stack |
 |---|---|---|---|
 | **💳 ManSula Smart Terminal** | Dedicated hardware POS on ESP32-S3 — voice payment announcements, dynamic QR, loyalty card system, local wallet. Same business logic as BOS on its own physical terminal. | 🔨 **In Progress** | ESP32-S3 · MicroPython |
-| **📍 MapLok** | Local-business discovery platform — maps, ratings, directions, direct contact. Business owners get an online presence without a website. Built solo in ~1 month. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
-| **⌚ DivSum Ecosystem** | Self-built smartwatch platform: **DivSum OS** (custom wearable OS) + **DivSum Watch** (ESP32-S3 hardware) + **DivSum Connect** (companion app). No team, no existing framework. | 🔨 **In Development** | ESP32-S3 · MicroPython |
+| **📍 MapLok** | Local business discovery platform — maps, ratings, directions, direct contact. Business owners get an online presence without a website. Built solo in ~1 month. <br/>🔗 [Live Demo](https://maplok.netlify.app/) | 🔵 **Concept Proven** | React · Next.js · Supabase |
+| **⌚ DivSum Ecosystem** | Self built smartwatch platform: **DivSum OS** (custom wearable OS) + **DivSum Watch** (ESP32-S3 hardware) + **DivSum Connect** (companion app). No team, no existing framework. | 🔨 **In Development** | ESP32-S3 · MicroPython |
 
 ---
 
