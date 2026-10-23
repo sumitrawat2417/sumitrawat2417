@@ -1,0 +1,15 @@
+# Backups and temporary files
+*_backup*
+*.bak
+*.tmp
+
+# Sensitive personal documents and resumes
+*.pdf
+*.docx
+*personal_profile*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

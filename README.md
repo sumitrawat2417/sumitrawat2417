@@ -20,7 +20,7 @@
 > **Hardware → firmware → SaaS → live business. All in one person.**
 
 - 🎓 **BTech in Artificial Intelligence & Machine Learning, IP University** · Pursuing **BS Data Science & Computer Application from IIT Madras** alongside
-- <img src="about/github-profile/mansula.png" height="18" alt="ManSula Logo" /> **Founder of [ManSula](https://mansula.netlify.app)** — multi-industry venture group (est. 2024): DivLabs (software), Technologies (hardware/IoT), Foods (food service)
+- <img src="assets/mansula.png" height="18" alt="ManSula Logo" /> **Founder of [ManSula](https://mansula.netlify.app)** — multi-industry venture group (est. 2024): DivLabs (software), Technologies (hardware/IoT), Foods (food service)
 - 🔩 I own the full stack — MCU firmware, backend logic, and the screen the end user actually touches
 - 🏪 I run a **food business** on **ManSula BOS** — my own software. I'm not guessing what small business owners need. I'm living it.
 - ⚡ 5+ years working with **Python**, alongside C/C++, Java, JavaScript — learned by building, not by finishing courses
@@ -91,7 +91,7 @@
 
 ---
 
-### <img src="about/github-profile/mansula-bos.png" height="24" alt="ManSula BOS Logo" /> ManSula BOS — Business Operating System *(Flagship)*
+### <img src="assets/mansula-bos.png" height="24" alt="ManSula BOS Logo" /> ManSula BOS — Business Operating System *(Flagship)*
 
 > *An offline-first Business Operating System for small and medium businesses — built in India, for India.*
 
